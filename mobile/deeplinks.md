@@ -6,4 +6,4 @@ Live deeplinks
 
 ### Moovapps Live app scheme
 - [com.visiativ.moovapps.live://meet.jit.si/stephanecodes](com.visiativ.moovapps.live://meet.jit.si/stephanecodes)
-- [com.visiativ.moovapps.live://live.moovapps.com](com.visiativ.moovapps.live://live.moovapps.com)
+- [com.visiativ.moovapps.live://live.moovapps.com/stephanecodes](com.visiativ.moovapps.live://live.moovapps.com/stephanecodes)
